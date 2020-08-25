@@ -1,0 +1,25 @@
+*{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.header img{
+    padding-top: 30px;
+   height:  60px;
+}
+.header {
+   text-align: center;
+}
+.header nav {
+    background-color: rgb(8, 19, 54);
+    padding: 0px;
+    overflow: hidden;
+}
+.header nav a{
+    color: #fff;
+    font-size: 22px;
+    text-decoration: none;
+    padding: 20px;
+    float: left;
+}
+.header nav a:hover{
+    background-color: rgb(51, 50, 48);
+}

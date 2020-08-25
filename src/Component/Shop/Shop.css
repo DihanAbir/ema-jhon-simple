@@ -1,0 +1,17 @@
+.mainsection{
+    padding: 20px ;
+    display: flex;
+}
+.mainsection .suggestion{
+    min-width: 15%;
+    margin: 10px;
+}
+.mainsection .product{
+    min-width: 60%;
+    margin: 10px;
+}
+.mainsection .cartSection{
+    width: 25%;
+    border-left: 1px solid lightgray;
+    padding-left: 20px;
+}
